@@ -1,4 +1,5 @@
 import { useState, useEffect, useRef } from 'react';
+import { Link } from 'react-router-dom';
 
 export default function Navbar() {
 
@@ -49,7 +50,10 @@ export default function Navbar() {
             </div>
             <div className=" flex items-center">
                 <ul className="relative flex flex-row gap-3 items-center text-white text-lg">
-                    <li className=" no-underline px-8 border-r-1 border-blue-400"><a href="#pc">PC</a></li>
+                    <li className="no-underline px-8 border-r-1 border-blue-400">
+                        <Link to="/">Home</Link>
+                        </li>
+                    <li className=" no-underline px-8 border-r-1 border-blue-400"><Link to="/pc">PC</Link></li>
                     <li id="dropdownNvbarButton" ref={dropdownRef} onClick={handleMouseEnter} onMouseEnter={handleMouseEnter}
                         className="relative px-8">
                         <div className="hover:cursor-pointer flex flex-row items-center">Il processo
@@ -58,10 +62,10 @@ export default function Navbar() {
                         {openDropdown ? 
                         <ul onMouseLeave={handleMouseLeave} id="dropdownNavbar" 
                             className="absolute top-14 left-0 bg-[#212121] rounded-lg p-3 w-72 flex flex-col gap-4 border-2 border-blue-400">
-                            <li><a href="#fase1" onClick={handleLinkClick}>Fase 1: la ricerca dei componenti</a></li>
-                            <li><a href="#fase2" onClick={handleLinkClick}>Fase 2: l'assemblaggio</a></li>
-                            <li><a href="#fase3" onClick={handleLinkClick}>Fase 3: la configurazione</a></li>
-                            <li><a href="#fase4" onClick={handleLinkClick}>Considerazioni finali</a></li>
+                            <li><Link to="/fase1">Fase 1: la ricerca dei componenti</Link></li>
+                            <li><Link to="/fase2">Fase 2: l'assemblaggio</Link></li>
+                            <li><Link to="/fase3">Fase 3: la configurazione</Link></li>
+                            <li><Link to="/considerazioni">Considerazioni finali</Link></li>
                         </ul> : null}
                     </li>
                     <li className="px-8 border-l-1 border-blue-400"><a href="#about">About</a></li>
