@@ -5,6 +5,11 @@ html {
   -webkit-scroll-behavior: smooth;
 }
 
+html, body {
+  background-color: black;
+  overscroll-behavior: none;
+}
+
 /* Custom scrollbar */
 .custom-scrollbar::-webkit-scrollbar {
   width: 4px;
