@@ -31,7 +31,7 @@ export default function PCExplorer() {
           {/* Image wrapper */}
           <div className="relative w-full select-none px-4 py-6">
             <img
-              src="/pc-components.jpg"
+              src="/pc-components.webp"
               alt="PC Components Exploded View"
               className="w-full h-auto object-contain rounded-2xl shadow-2xl shadow-black/70 border border-white/5"
               draggable={false}

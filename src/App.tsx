@@ -7,11 +7,13 @@ import Fase1 from './pages/Fase1';
 import Fase2 from './pages/Fase2';
 import Fase3 from './pages/Fase3';
 import Considerazioni from './pages/Considerazioni';
+import ScrollToTop from './components/ScrollToTop';
 
 export default function App() {
   return (
     //<>
     <BrowserRouter>
+    <ScrollToTop />
     <div className="scroll-smooth pt-24 min-h-screen bg-black text-white overfow-y-hidden">
       <Navbar />
       <Routes>

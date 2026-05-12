@@ -211,7 +211,7 @@ export const components: PCComponent[] = [
     description:
       `Sono molto belli tutti i componenti, ma in aria non si può fissare nulla, quindi serve un alloggiamento che riesca a contenerli e garantirne il flusso d'aria necessario proteggendoli dalla polvere con filtri: il Case.
        Questo modello in particolare mi ha permesso di incastrare tutto con "facilità", offre molto spazio utile all'assemblaggio, alla gestione dei cavi e al flussio d'aria.
-       Mi ha colpito per il design sobrio, ma tamarro nei suoi pannelli in vetro temperato che mi permettonjo di vedere gli organi della bestia.`,
+       Mi ha colpito per il design sobrio, ma tamarro nei suoi pannelli in vetro temperato che mi permettono di vedere gli organi della bestia.`,
       specs: [
       { key: "formato", value: "Full tower" },
       { key: "materiale", value: "acciaio + vetro temperato" },
