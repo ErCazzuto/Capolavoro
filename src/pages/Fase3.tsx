@@ -36,7 +36,7 @@ export default function Fase3() {
           </div>
           <div className="flex justify-center mb-10">
             <img
-              src="/win11.jpg"
+              src="/win11.webp"
               alt="win11"
               className="w-6xl h-full object-cover rounded-3xl border-3 border-blue-400 "
             />
@@ -71,14 +71,14 @@ export default function Fase3() {
           </div>
           <div className="mb-10 flex justify-center">
           <img
-                  src="/driver.jpg"
+                  src="/driver.webp"
                   alt="driver"
                   className="w-6xl h-full object-cover rounded-3xl border-3 border-blue-400 "
           />
           </div>
           <div className="flex justify-center mb-10">
           <img
-                  src="/cartella.jpg"
+                  src="/cartella.webp"
                   alt="cartella"
                   className="w-6xl h-full object-cover rounded-3xl border-3 border-blue-400 "
           />
@@ -99,14 +99,14 @@ export default function Fase3() {
           </div>
           <div className="mb-10 flex justify-center">
           <img
-                  src="/adrena.jpg"
+                  src="/adrena.webp"
                   alt="adrenaline"
                   className="w-6xl h-full object-cover rounded-3xl border-3 border-blue-400 "
           />
           </div>
           <div className="flex justify-center mb-10">
           <img
-                  src="/adrenal.jpg"
+                  src="/adrenal.webp"
                   alt="adrenaline"
                   className="w-6xl h-full object-cover rounded-3xl border-3 border-blue-400 "
           />
@@ -127,14 +127,14 @@ export default function Fase3() {
           </div>
           <div className="mb-10 flex justify-center">
           <img
-                  src="/gcc.jpg"
+                  src="/gcc.webp"
                   alt="gcc"
                   className="w-6xl h-full object-cover rounded-3xl border-3 border-blue-400"
           />
           </div>
           <div className=" flex justify-center mb-10">
           <img
-                  src="/gcc2.jpg"
+                  src="/gcc2.webp"
                   alt="gcc2"
                   className="w-6xl h-full object-cover rounded-3xl border-3 border-blue-400 "
           />
@@ -156,7 +156,7 @@ export default function Fase3() {
           </div>
           <div className="flex justify-center mb-10">
           <img
-                  src="/expo.jpg"
+                  src="/expo.webp"
                   alt="expo"
                   className="w-6xl h-full object-cover rounded-3xl border-3 border-blue-400 "
           />

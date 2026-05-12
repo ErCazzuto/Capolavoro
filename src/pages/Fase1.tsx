@@ -24,7 +24,7 @@ return (
             </div>
             <div className="w-full md:w-[40%] lg:w-[40%] mx-3 mt-3 mb-3 ml-auto rounded-3xl border-3 border-blue-400 bg-black">
               <img
-                  src="/cpu.jpg"
+                  src="/cpu.webp"
                   alt="Ricerca componenti"
                   className="w-6xl h-full object-cover"
                 />
@@ -39,7 +39,7 @@ return (
           <div className="flex flex-col md:flex-row items-center gap-6 ml-3">
             <div className="w-full md:w-[40%] lg:w-[40%] p-3 mx-3 mt-3 mb-3 ml-auto rounded-3xl border-3 border-blue-400 bg-black">
               <img
-                  src="/gpu.jpg"
+                  src="/gpu.webp"
                   alt="Ricerca componenti"
                   className="w-6xl h-full object-cover"
                 />
@@ -71,7 +71,7 @@ return (
             </div>
             <div className="w-full md:w-[40%] lg:w-[40%] mx-3 mt-3 mb-3 ml-auto rounded-3xl border-3 border-blue-400 bg-black">
               <img
-                  src="/ram.jpg"
+                  src="/ram.webp"
                   alt="Ricerca componenti"
                   className="w-6xl h-full object-cover"
                 />
@@ -86,7 +86,7 @@ return (
           <div className="flex flex-col md:flex-row items-center gap-6 ml-3">
             <div className="w-full md:w-[40%] lg:w-[40%] p-3 mx-3 mt-3 mb-3 ml-auto rounded-3xl border-3 border-blue-400 bg-black">
               <img
-                  src="/schedamadre.jpg"
+                  src="/schedamadre.webp"
                   alt="Ricerca componenti"
                   className="w-6xl h-full object-cover"
                 />
@@ -116,7 +116,7 @@ return (
             </div>
             <div className="w-full md:w-[40%] lg:w-[40%] mx-3 mt-3 mb-3 ml-auto rounded-3xl border-3 border-blue-400 overflow-hidden bg-black">
               <img
-                  src="/case.jpg"
+                  src="/case.webp"
                   alt="Ricerca componenti"
                   className="w-6xl h-full object-cover"
                 />
@@ -131,7 +131,7 @@ return (
           <div className="flex flex-col md:flex-row items-center gap-6 ml-3">
             <div className="w-full md:w-[40%] lg:w-[40%] p-3 mx-3 mt-3 mb-3 ml-auto rounded-3xl border-3 border-blue-400 bg-black">
               <img
-                  src="/ssd.jpg"
+                  src="/ssd.webp"
                   alt="Ricerca componenti"
                   className="w-6xl h-full object-cover"
                 />
@@ -159,7 +159,7 @@ return (
             </div>
             <div className="w-full md:w-[40%] lg:w-[40%] mx-3 mt-3 mb-3 ml-auto rounded-3xl border-3 border-blue-400 bg-black">
               <img
-                  src="/radiatore.jpg"
+                  src="/radiatore.webp"
                   alt="Ricerca componenti"
                   className="w-6xl h-full object-cover"
                 />
@@ -174,7 +174,7 @@ return (
           <div className="flex flex-col md:flex-row items-center gap-6 ml-3">
         <div className="w-full md:w-[40%] lg:w-[40%] p-3 mx-3 mt-3 mb-3 ml-auto rounded-3xl border-3 border-blue-400 bg-black">
               <img
-                  src="/psu.jpg"
+                  src="/psu.webp"
                   alt="Ricerca componenti"
                   className="w-6xl h-full object-cover"
                 />
@@ -204,7 +204,7 @@ return (
             </div>
             <div className="w-full md:w-[40%] lg:w-[40%] mx-3 mt-3 mb-3 ml-auto rounded-3xl border-3 border-blue-400 bg-black">
               <img
-                  src="/fans.jpg"
+                  src="/fans.webp"
                   alt="Ricerca componenti"
                   className="w-6xl h-full object-cover"
                 />

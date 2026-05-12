@@ -20,7 +20,7 @@ export default function Fase2() {
           </div>
           <div className="flex justify-center">
           <img
-                  src="/fase1.jpg"
+                  src="/fase1.webp"
                   alt="fase 1"
                   className="w-6xl pr-1 h-full object-cover"
           />
@@ -40,7 +40,7 @@ export default function Fase2() {
           </div>
           <div className="flex justify-center">
           <img
-                  src="/fase2.jpg"
+                  src="/fase2.webp"
                   alt="fase 2"
                   className="w-6xl pr-1 h-full object-cover"
           />
@@ -60,7 +60,7 @@ export default function Fase2() {
           </div>
           <div className="flex justify-center">
           <img
-                  src="/fase3.jpg"
+                  src="/fase3.webp"
                   alt="fase 3"
                   className="w-6xl pr-1 h-full object-cover"
           />
@@ -80,7 +80,7 @@ export default function Fase2() {
           </div>
           <div className="flex justify-center">
           <img
-                  src="/fase4.jpg"
+                  src="/fase4.webp"
                   alt="fase 4"
                   className="w-6xl pr-1 h-full object-cover"
           />
@@ -100,7 +100,7 @@ export default function Fase2() {
           </div>
           <div className="flex justify-center">
           <img
-                  src="/fase5.jpg"
+                  src="/fase5.webp"
                   alt="fase 5"
                   className="w-6xl pr-1 h-full object-cover"
           />
@@ -120,7 +120,7 @@ export default function Fase2() {
           </div>
           <div className="flex justify-center">
           <img
-                  src="/fase6.jpg"
+                  src="/fase6.webp"
                   alt="fase 6"
                   className="w-6xl pr-1 h-full object-cover"
           />
