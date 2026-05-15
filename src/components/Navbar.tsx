@@ -68,7 +68,7 @@ export default function Navbar() {
                             <li><Link to="/considerazioni">Considerazioni finali</Link></li>
                         </ul> : null}
                     </li>
-                    <li className="px-8 border-l-1 border-blue-400"><a href="#about">About</a></li>
+                    <li className="px-8 border-l-1 border-blue-400"><Link to="/about">About</Link></li>
                 </ul>
             </div>
 

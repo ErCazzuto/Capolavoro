@@ -7,6 +7,7 @@ import Fase1 from './pages/Fase1';
 import Fase2 from './pages/Fase2';
 import Fase3 from './pages/Fase3';
 import Considerazioni from './pages/Considerazioni';
+import About from './pages/About.tsx';
 import ScrollToTop from './components/ScrollToTop';
 
 export default function App() {
@@ -23,6 +24,7 @@ export default function App() {
          <Route path="/fase2"          element={<Fase2 />} />
          <Route path="/fase3"          element={<Fase3 />} />
          <Route path="/considerazioni" element={<Considerazioni />} />
+        <Route path="/about" element={<About />} />
       </Routes>
     </div>
     </BrowserRouter>
