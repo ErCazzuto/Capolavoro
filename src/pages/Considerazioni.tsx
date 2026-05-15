@@ -11,7 +11,8 @@ export default function Considerazioni() {
       <section className="p-8">
         <div className="max-w-7xl mt-2 mx-auto">
           <div className="text-white-30 leading-center">
-            awdawdawdawdawdiaowdijaoidjaoiwdjaoidjoaidj
+            Montare un PC, utilizzarlo e vederlo funzionare come dovrebbe è assurdo, è un'emozione unica che consiglio a più persone possibili, a chi interessa per lo meno.<br></br>
+            
           </div>
         </div>
       </section>
