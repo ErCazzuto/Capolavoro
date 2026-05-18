@@ -65,10 +65,9 @@ export default function Navbar() {
                             <li><Link to="/fase1">Fase 1: la ricerca dei componenti</Link></li>
                             <li><Link to="/fase2">Fase 2: l'assemblaggio</Link></li>
                             <li><Link to="/fase3">Fase 3: la configurazione</Link></li>
-                            <li><Link to="/considerazioni">Considerazioni finali</Link></li>
                         </ul> : null}
                     </li>
-                    <li className="px-8 border-l-1 border-blue-400"><Link to="/about">About</Link></li>
+                    <li className="px-8 border-l-1 border-blue-400"><Link to="/considerazioni">Considerazioni finali</Link></li>
                 </ul>
             </div>
 
