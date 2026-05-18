@@ -10,7 +10,7 @@ export default function Fase3() {
       
       {/*win11*/}
       <section className="p-8">
-        <div className="max-w-7xl mx-auto border-2 rounded-3xl border bg-white/10">
+        <div className="max-w-7xl mx-auto border-2 rounded-3xl border-[#242C3D] bg-[#161B26]">
           <div className="flex items-center">
           </div>
           <h2 className="text-3xl font-bold mt-8 mb-1 text-center"> <strong className="text-3xl text-[#4ade80]">L'installazione di Windows 11 Home</strong> </h2>
@@ -46,7 +46,7 @@ export default function Fase3() {
 
             {/*driver e GCC*/}
       <section className="p-8">
-        <div className="max-w-7xl mt-15 mx-auto border-2 rounded-3xl border bg-white/10">
+        <div className="max-w-7xl mt-15 mx-auto border-2 rounded-3xl border-[#242C3D] bg-[#161B26]">
           <div className="flex items-center">
           </div>
           <h2 className="text-3xl font-bold mt-8 mb-1 text-center"> <strong className="text-3xl text-[#4ade80]">I driver</strong> </h2>
@@ -88,7 +88,7 @@ export default function Fase3() {
 
            {/*driver e GCC*/}
       <section className="p-8">
-        <div className="max-w-7xl mt-15 mx-auto border-2 rounded-3xl border bg-white/10">
+        <div className="max-w-7xl mt-15 mx-auto border-2 rounded-3xl border-[#242C3D] bg-[#161B26]">
           <div className="flex items-center">
           </div>
           <h2 className="text-3xl font-bold mt-8 mb-1 text-center"> <strong className="text-3xl text-[#4ade80]">Il driver grafico</strong> </h2>
@@ -116,7 +116,7 @@ export default function Fase3() {
 
               {/*driver e GCC*/}
       <section className="p-8">
-        <div className="max-w-7xl  mt-15 mx-auto border-2 rounded-3xl border bg-white/10">
+        <div className="max-w-7xl  mt-15 mx-auto border-2 rounded-3xl border-[#242C3D] bg-[#161B26]">
           <div className="flex items-center">
           </div>
           <h2 className="text-3xl font-bold mt-8 mb-1 text-center"> <strong className="text-3xl text-[#4ade80]">GCC: Gigabyte Control Centre</strong> </h2>
@@ -145,7 +145,7 @@ export default function Fase3() {
 
                  {/*expo*/}
       <section className="p-8">
-        <div className="max-w-7xl  mt-15 mx-auto border-2 rounded-3xl border bg-white/10">
+        <div className="max-w-7xl  mt-15 mx-auto border-2 rounded-3xl border-[#242C3D] bg-[#161B26]">
           <div className="flex items-center">
           </div>
           <h2 className="text-3xl font-bold mt-8 mb-1 text-center"> <strong className="text-3xl text-[#4ade80]">Profilo EXPO delle RAM</strong> </h2>
@@ -166,7 +166,7 @@ export default function Fase3() {
 
             {/*app config*/}
       <section className="p-8">
-        <div className="max-w-7xl mb-20 mt-15  mx-auto border-2 rounded-3xl border bg-white/10">
+        <div className="max-w-7xl mb-20 mt-15  mx-auto border-2 rounded-3xl border-[#242C3D] bg-[#161B26]">
           <div className="flex items-center">
           </div>
           <div className="text-white-30 p-10 leading-relaxed mb-8">

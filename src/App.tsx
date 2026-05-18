@@ -14,7 +14,7 @@ export default function App() {
     //<>
     <BrowserRouter>
     <ScrollToTop />
-    <div className="scroll-smooth pt-24 min-h-screen bg-black text-white overfow-y-hidden">
+    <div className="scroll-smooth pt-24 min-h-screen bg-[#0B0F19] text-white overfow-y-hidden">
       <Navbar />
       <Routes>
          <Route path="/"               element={<HomePage />} />

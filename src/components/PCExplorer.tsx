@@ -17,7 +17,7 @@ export default function PCExplorer() {
   };
 
   return (
-    <div className="relative w-full h-3/4 flex flex-col overflow-hidden bg-black max-w-7xl mx-auto ">
+    <div className="relative w-full h-3/4 flex flex-col overflow-hidden bg-trasparent max-w-7xl mx-auto ">
       <div className="flex flex-col justify-center relative">
         {/* Image container */}
         <div
@@ -33,7 +33,7 @@ export default function PCExplorer() {
             <img
               src="/pc-components.webp"
               alt="PC Components Exploded View"
-              className="w-full h-auto object-contain rounded-2xl shadow-2xl shadow-black/70 border border-white/5"
+              className="w-full h-auto object-contain rounded-2xl border border-white/5"
               draggable={false}
             />
 

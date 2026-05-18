@@ -12,7 +12,7 @@ return (
       
       {/* CPU */}
       <section className="p-8">
-        <div className="max-w-7xl mx-auto rounded-3xl border-2 border bg-white/10">
+        <div className="max-w-7xl mx-auto rounded-3xl border-2 border-[#242C3D] bg-[#161B26]">
           <div className="flex flex-col md:flex-row items-center gap-6">
             <div className="flex-1">
               <h2 className="text-3xl font-bold mt-8 mb-1 text-center"> <strong className="text-3xl text-[#4ade80]">La CPU</strong> </h2>
@@ -35,7 +35,7 @@ return (
 
       {/* GPU */}
       <section className="p-8">
-        <div className="max-w-7xl mx-auto rounded-3xl border-2 border bg-white/10">
+        <div className="max-w-7xl mx-auto rounded-3xl border-2 border-[#242C3D] bg-[#161B26]">
           <div className="flex flex-col md:flex-row items-center gap-6 ml-3">
             <div className="w-full md:w-[40%] lg:w-[40%] p-3 mx-3 mt-3 mb-3 ml-auto rounded-3xl border-3 border-blue-400 bg-black">
               <img
@@ -59,7 +59,7 @@ return (
 
       {/* RAM */}
       <section className="p-8">
-        <div className="max-w-7xl mx-auto rounded-3xl border-2 border bg-white/10">
+        <div className="max-w-7xl mx-auto rounded-3xl border-2 border-[#242C3D] bg-[#161B26]">
           <div className="flex flex-col md:flex-row items-center gap-6">
             <div className="flex-1">
               <h2 className="text-3xl font-bold mt-8 mb-1 text-center"> <strong className="text-3xl text-[#4ade80]">Le RAM</strong> </h2>
@@ -82,7 +82,7 @@ return (
 
       {/* schedamadre */}
       <section className="p-8">
-        <div className="max-w-7xl mx-auto rounded-3xl border-2 border bg-white/10">
+        <div className="max-w-7xl mx-auto rounded-3xl border-2 border-[#242C3D] bg-[#161B26]">
           <div className="flex flex-col md:flex-row items-center gap-6 ml-3">
             <div className="w-full md:w-[40%] lg:w-[40%] p-3 mx-3 mt-3 mb-3 ml-auto rounded-3xl border-3 border-blue-400 bg-black">
               <img
@@ -104,7 +104,7 @@ return (
 
       {/* case */}
       <section className="p-8">
-        <div className="max-w-7xl mx-auto rounded-3xl border-2 border bg-white/10">
+        <div className="max-w-7xl mx-auto rounded-3xl border-2 border-[#242C3D] bg-[#161B26]">
           <div className="flex flex-col md:flex-row items-center gap-6">
             <div className="flex-1">
               <h2 className="text-3xl font-bold mt-8 mb-1 text-center"> <strong className="text-3xl text-[#4ade80]">Il Case</strong> </h2>
@@ -127,7 +127,7 @@ return (
 
       {/* ssd */}
       <section className="p-8">
-        <div className="max-w-7xl mx-auto rounded-3xl border-2 border bg-white/10">
+        <div className="max-w-7xl mx-auto rounded-3xl border-2 border-[#242C3D] bg-[#161B26]">
           <div className="flex flex-col md:flex-row items-center gap-6 ml-3">
             <div className="w-full md:w-[40%] lg:w-[40%] p-3 mx-3 mt-3 mb-3 ml-auto rounded-3xl border-3 border-blue-400 bg-black">
               <img
@@ -148,7 +148,7 @@ return (
 
       {/* radiatore */}
       <section className="p-8">
-        <div className="max-w-7xl mx-auto rounded-3xl border-2 border bg-white/10">
+        <div className="max-w-7xl mx-auto rounded-3xl border-2 border-[#242C3D] bg-[#161B26]">
           <div className="flex flex-col md:flex-row items-center gap-6">
             <div className="flex-1">
               <h2 className="text-3xl font-bold mt-8 mb-1 text-center"> <strong className="text-3xl text-[#4ade80]">Il Dissipatore</strong> </h2>
@@ -170,7 +170,7 @@ return (
 
       {/* psu */}
       <section className="p-8">
-        <div className="max-w-7xl mx-auto rounded-3xl border-2 border bg-white/10">
+        <div className="max-w-7xl mx-auto rounded-3xl border-2 border-[#242C3D] bg-[#161B26]">
           <div className="flex flex-col md:flex-row items-center gap-6 ml-3">
         <div className="w-full md:w-[40%] lg:w-[40%] p-3 mx-3 mt-3 mb-3 ml-auto rounded-3xl border-3 border-blue-400 bg-black">
               <img
@@ -193,7 +193,7 @@ return (
 
       {/* fans */}
       <section className="p-8">
-        <div className="max-w-7xl mx-auto rounded-3xl border-2 border bg-white/10">
+        <div className="max-w-7xl mx-auto rounded-3xl border-2 border-[#242C3D] bg-[#161B26]">
           <div className="flex flex-col md:flex-row items-center gap-6">
             <div className="flex-1">
              <h2 className="text-3xl font-bold mt-8 mb-1 text-center"> <strong className="text-3xl text-[#4ade80]">Le Ventole</strong> </h2>

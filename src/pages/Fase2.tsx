@@ -10,7 +10,7 @@ export default function Fase2() {
 
       {/*Fase 1*/}
       <section className="p-8">
-        <div className="max-w-7xl mx-auto border-2 rounded-3xl border bg-white/10">
+        <div className="max-w-7xl mx-auto border-2 rounded-3xl border-[#242C3D] bg-[#161B26]">
           <div className="flex items-center">
           </div>
           <h2 className="text-3xl font-bold mt-8 mb-1 text-center"> <strong className="text-3xl text-[#4ade80]">Preparazione dei componenti</strong> </h2>
@@ -31,7 +31,7 @@ export default function Fase2() {
 
       {/*Fase 2*/}
       <section className="p-8">
-        <div className="max-w-7xl mx-auto border-2 rounded-3xl border bg-white/10">
+        <div className="max-w-7xl mx-auto border-2 rounded-3xl border-[#242C3D] bg-[#161B26]">
           <div className="flex items-center">
           </div>
           <h2 className="text-3xl font-bold mt-8 mb-1 text-center"> <strong className="text-3xl text-[#4ade80]">Sulla scheda madre...</strong> </h2>
@@ -56,7 +56,7 @@ export default function Fase2() {
 
       {/*Fase 3*/}
 <section className="p-8">
-  <div className="max-w-7xl mx-auto border-2 rounded-3xl border bg-white/10">
+  <div className="max-w-7xl mx-auto border-2 rounded-3xl border-[#242C3D] bg-[#161B26]">
     <div className="flex items-center">
     </div>
     <h2 className="text-3xl font-bold mt-8 mb-1 text-center"> <strong className="text-3xl text-[#4ade80]">Nel case...</strong> </h2>
@@ -84,7 +84,7 @@ export default function Fase2() {
 
 {/*Fase 4*/}
 <section className="p-8">
-  <div className="max-w-7xl mx-auto border-2 rounded-3xl border bg-white/10">
+  <div className="max-w-7xl mx-auto border-2 rounded-3xl border-[#242C3D] bg-[#161B26]">
     <div className="flex items-center">
     </div>
     <h2 className="text-3xl font-bold mt-8 mb-1 text-center"> <strong className="text-3xl text-[#4ade80]">Il terrore</strong> </h2>
@@ -113,7 +113,7 @@ export default function Fase2() {
 
 {/*Fase 5*/}
 <section className="p-8">
-  <div className="max-w-7xl mx-auto border-2 rounded-3xl border bg-white/10">
+  <div className="max-w-7xl mx-auto border-2 rounded-3xl border-[#242C3D] bg-[#161B26]">
     <div className="flex items-center">
     </div>
     <h2 className="text-3xl font-bold mt-8 mb-1 text-center"> <strong className="text-3xl text-[#4ade80]">La bestia</strong> </h2>
@@ -146,7 +146,7 @@ export default function Fase2() {
 
  {/*Fase 6*/}
 <section className="p-8">
-  <div className="max-w-7xl mb-20 mx-auto border-2 rounded-3xl border bg-white/10">
+  <div className="max-w-7xl mb-20 mx-auto border-2 rounded-3xl border-[#242C3D] bg-[#161B26]">
     <div className="flex items-center">
     </div>
     <h2 className="text-3xl font-bold mt-8 mb-1 text-center"> <strong className="text-3xl text-[#4ade80]">Il PRIMO AVVIO</strong> </h2>

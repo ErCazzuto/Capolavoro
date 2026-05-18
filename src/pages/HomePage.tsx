@@ -7,7 +7,7 @@ export default function HomePage() {
           <h2 className="text-6xl font-bold mt-30 mb-20 text-center"> <strong className="text-9xl text-[#4ade80]">L'assemblaggio di un sogno</strong> </h2>
 
           {/* Esempio di casella di testo */}
-          <div className="max-w-6xl mx-auto p-6 rounded-lg mt-50 mb-8 rounded-3xl border-2 border bg-white/10">
+          <div className="max-w-6xl mx-auto p-6 rounded-lg mt-50 mb-8 rounded-3xl border-2 border-[#242C3D] bg-[#161B26]">
 
             <p className="text-white-300 leading-relaxed">
               Nell' estate del 2024 sono, dopo anni che lo ambivo, finalmente riuscito ad assemblare il mio primo PC fisso. <br></br>

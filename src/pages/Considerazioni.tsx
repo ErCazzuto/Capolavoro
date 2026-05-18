@@ -9,7 +9,7 @@ export default function Considerazioni() {
       </section>
 
       <section className="p-8">
-        <div className="max-w-7xl mb-20 mx-auto border-2 rounded-3xl border bg-white/10">
+        <div className="max-w-7xl mb-20 mx-auto border-2 rounded-3xl border-[#242C3D] bg-[#161B26]">
           <div className="flex items-center">
           </div>
           <div className="text-white-30 p-10 leading-relaxed mb-1">
