@@ -36,7 +36,7 @@ export default function Fase2() {
           </div>
           <h2 className="text-3xl font-bold mt-8 mb-1 text-center"> <strong className="text-3xl text-[#4ade80]">Sulla scheda madre...</strong> </h2>
           <div className="text-white-30 p-10 leading-relaxed mb-10">
-            La scheda madre si lavora fuori dal case, su una superficie piatta e non ruvida, in modo da salvaguardiare i collegamenti dietro di essa. <br></br>
+            La scheda madre si lavora fuori dal case, su una superficie piatta e non ruvida, in modo da salvaguardare i collegamenti dietro di essa. <br></br>
             Prima la CPU, un gesto che richiede calma e precisione, niente forza, la si appoggia nello slot dedicato, al centro della scheda madre, e poi si chiude la copertura, solamente ora non bisogna avere paura di metterci della forza. <br></br>
             Poi l'SSD nel suo slot M.2, la RAM negli slot giusti cioè A2 e B2 (il secondo e il quarto) così da sfruttare il dual channel, e infine il supporto per il dissipatore. <br></br>
             È la fase più delicata: componenti piccoli, connettori fragili, e zero margine di errore. Ma è anche quella in cui la build inizia a prendere forma per la prima volta.
@@ -89,7 +89,7 @@ export default function Fase2() {
     </div>
     <h2 className="text-3xl font-bold mt-8 mb-1 text-center"> <strong className="text-3xl text-[#4ade80]">Il terrore</strong> </h2>
     <div className="text-white-30 p-10 leading-relaxed mb-10">
-      Purtroppo, doveva arrivare anche questa fase: il CABLE MANAGMENT<br></br>
+      Purtroppo, doveva arrivare anche questa fase: il CABLE MANAGEMENT<br></br>
       I cavi sono il confine tra un PC funzionante e un PC bello. Alimentazione della scheda madre, della GPU, delle ventole, i connettori per le porte frontali del case, i connettori per installare in serie tutte le ventole... i cavi non finiscono più.<br></br>
       Ogni cavo va guidato dietro il pannello, legato, nascosto. Non cambia nulla in termini di prestazioni, ma cambia tutto in termini di soddisfazione e sanità mentale. <br></br>
       Si può vedere un buon cable management come il rispetto che si porta alla propria creazione e il mezzo per compiere un lavoro pulito e ordinato.<br></br>
@@ -156,7 +156,7 @@ export default function Fase2() {
       Se l'icona del BIOS appare, la build è riuscita e da lì si parte con l'installazione del sistema operativo e la configurazione finale. <br></br>
       Poche soddisfazioni sono paragonabili a vedere accendersi qualcosa che hai ambito per anni e finalmente costruito con le tue mani.<br></br>
       Ho premuto il tasto di accensione: le ventole sono partite... hanno preso colore... è comparsa l'icona di gigabyte sul monitor... nessun suono strano o scintille... ce l'avevo fatta, avevo finalmente assemblato il PC, e la cosa ancora più bella è che funzionava al primo avvio, anni di ricerche e informazioni sono valse tutto.<br></br>
-      È tranquillamente rientrato trai momenti più soddisfacenti della mia vita, è veramente difficile esprimere quanto sono stato contento e fiero, ed ora, toccava ad una parte forse più spaventose del cable managment: l'installazione del mio caro e odiato WINDOWS.
+      È tranquillamente rientrato tra i momenti più soddisfacenti della mia vita, è veramente difficile esprimere quanto sono stato contento e fiero, ed ora, toccava ad una parte forse più spaventosa del cable managment: l'installazione del mio caro e odiato WINDOWS.
     </div>
     <div className="flex flex-col gap-4 mb-10 px-10">
       <div className="flex flex-row gap-4 justify-center">

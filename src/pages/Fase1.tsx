@@ -17,7 +17,7 @@ return (
             <div className="flex-1">
               <h2 className="text-3xl font-bold mt-8 mb-1 text-center"> <strong className="text-3xl text-[#4ade80]">La CPU</strong> </h2>
               <p className="text-white-30 p-10 leading-relaxed mb-4">
-                Come primo componente da decidere ho trovato saggio che fosse la CPU, è il componente da cui dipende il resto del PC, soprattutto per la scelta della scheda madre. <br />
+                Come primo componente da decidere ho trovato saggio che fosse la CPU: è il componente da cui dipende il resto del PC, soprattutto per la scelta della scheda madre. <br />
                 Ho optato subito per AMD e non Intel in quanto oltre alla convenienza generale, gli Intel in quel periodo avevano un problema nel microcodice che li rendeva altamente instabili. <br />
                 La scelta iniziale vergeva verso il Ryzen 5 7600x, un processore di fascia media e di tutto rispetto, sono poi passato al Ryzen 7 7700x, prestazioni maggiori per un prezzo non troppo maggiore, e infine, ho ringraziato il cielo per il momento estremamente favorevole in termini di prezzi e ho fatto un salto di qualità verso il Ryzen 7 7800x3d, per farmi capire: fino a pochi mesi dopo, con l'uscita del R7 9800x3d, era il MIGLIOR processore da gaming e rendering!
               </p>
@@ -48,7 +48,7 @@ return (
               <h2 className="text-3xl font-bold mt-8 mb-1 text-center"> <strong className="text-3xl text-[#4ade80]">La GPU</strong> </h2>
               <p className="text-white-30 leading-relaxed p-10 mb-4">
                 Dopo la bestia di CPU che ho scelto, dovevo scegliere una GPU che le stesse dietro. <br />
-                Anche in questo caso ho optato per AMD, più per la questione che la cotroparte NVIDIA ha il brutto vizio di pompare troppo i prezzi di GPU con capacità molto elevate in Ray Tracing, una tecnologia molto avanzata per il rendering di luci nei videogiochi, molto bello per carità, ma non mi ha attirato tanto quanto l'enorme quantità di VRAM in più che hanno le serie AMD. <br />
+                Anche in questo caso ho optato per AMD, più per la questione che la controparte NVIDIA ha il brutto vizio di pompare troppo i prezzi di GPU con capacità molto elevate in Ray Tracing, una tecnologia molto avanzata per il rendering di luci nei videogiochi, molto bello per carità, ma non mi ha attirato tanto quanto l'enorme quantità di VRAM in più che hanno le serie AMD. <br />
                 All'inizio la scelta era ovvia: la RX 6800, scheda video che mi aveva attirato per le prestazioni elevate e per un prezzo quasi troppo basso, quella che era veramente l'unica pecca era il fatto che era della vecchia serie, cioè le 6000, erano uscite già da un po' le 7000. < br />
                 Mi è caduto il mondo addosso quando sono terminate le scorte della RX 6800, un affare troppo bello per non approfittarne, sono quindi passato alla serie successiva e trovando un affare su BPM power ho optato per la RX 7900 XT, la seconda scheda video più potente di AMD fino all'uscita della serie successiva tempo dopo.
               </p>
@@ -95,7 +95,7 @@ return (
               <h2 className="text-3xl font-bold mt-8 mb-1 text-center"> <strong className="text-3xl text-[#4ade80]">La Scheda Madre</strong> </h2>
               <p className="text-white-30 leading-relaxed p-10 mb-4">
                 Dopo le RAM , dovevo decidere la base su cui montare tutto, che doveva essere all'altezza degli altri componenti: avendo scelto una CPU AMD serie 7000, e delle ram da 6000 MHz, la scelta giunse su una B650 per forza di cose. <br />
-                Scelto la tipologia mi mancava il modello, davvero troppa scelta, all'inizio ero orientato verso la B650 eagle ax, estremamente conveniente, compatibile elevata, ma poi, come con la GPU, è terminata, ho quindi deciso di optare per la B650 Aorus ELite Ax v2, prestazioni elevate, compatibilitò quasi eccessiva che mi permette tutt'ora di aggiornare il PC senza doverla cambiare.
+                Scelta la tipologia mi mancava il modello, davvero troppa scelta, all'inizio ero orientato verso la B650 eagle ax, estremamente conveniente, compatibile elevata, ma poi, come con la GPU, è terminata, ho quindi deciso di optare per la B650 Aorus ELite Ax v2, prestazioni elevate, compatibilità quasi eccessiva che mi permette tutt'ora di aggiornare il PC senza doverla cambiare.
               </p>
             </div>
           </div>
@@ -154,7 +154,7 @@ return (
               <h2 className="text-3xl font-bold mt-8 mb-1 text-center"> <strong className="text-3xl text-[#4ade80]">Il Dissipatore</strong> </h2>
               <p className="text-white-30 p-10 leading-relaxed mb-4">
               Ho successivamente notato che mancava il modo di raffreddare il processore, inizialmente pensavo a un dissipatore tranquillo ad aria che sarebbe andato benissimo con il processore scelto, poi ho ragionato sulla questione di aggiornabilità, e ho deciso di mantenere il livello medio dei componenti optando per un sistema a liquido AIO, un po' più costoso, complesso da montare ma sicuramente più performante. < br />
-                La scelta vergeva su thermalright, una garanzia, ma poi, rassegnato al fatto di non essere fortunato per quanto riguarda le scorte, ho scelto un modello Arctic, più precisamente il Freezer 360 iii, prestazioni effettivamente migliori per un prezzo leggermente maggiore, poteva andarmi peggio.
+                La scelta ricadeva su su thermalright, una garanzia, ma poi, rassegnato al fatto di non essere fortunato per quanto riguarda le scorte, ho scelto un modello Arctic, più precisamente il Freezer 360 iii, prestazioni effettivamente migliori per un prezzo leggermente maggiore, poteva andarmi peggio.
               </p>
             </div>
             <div className="w-full md:w-[40%] lg:w-[40%] mx-3 mt-3 mb-3 ml-auto rounded-3xl border-3 border-blue-400 bg-black">

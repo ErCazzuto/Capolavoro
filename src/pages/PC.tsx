@@ -5,7 +5,7 @@ export default function PC() {
       {/* inizio */}
       <section className="p-8">
         <div className="max-w-7xl mx-auto">
-          <div className="bg-white-1000 p-6 rounded-lg mb-0 rounded-3xl border-2 border-[#242C3D] bg-[#161B26]">
+          <div className="p-6 rounded-lg mb-0 rounded-3xl border-2 border-[#242C3D] bg-[#161B26]">
             <h3 className="text-xl font-semibold mb-0">Scopri i dettagli cliccando su ogni componente!</h3>
             <div className="flex flex-col md:flex-row gap-6">
               

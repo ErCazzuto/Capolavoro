@@ -182,9 +182,9 @@ export default function Fase3() {
             </br>
             - Windhawk mi permette di personalizzare profondamente windows a livello grafico<br>
             </br>
-            - Revo Unistaller mi permette di disintallare completamente i programmi, infatti di solito rimangono file nella cache e chiavi di registro residue<br>
+            - Revo Uninstaller mi permette di disintallare completamente i programmi, infatti di solito rimangono file nella cache e chiavi di registro residue<br>
             </br>
-            - Everythings rimedia ad una mancanza di windows cioè la ricerca istantanea di file e programmi, infatti di base la ricerca di windows è indicizzata e estremamente lenta<br>
+            - Everything rimedia ad una mancanza di windows cioè la ricerca istantanea di file e programmi, infatti di base la ricerca di windows è indicizzata e estremamente lenta<br>
             </br>
             - Windirstat è un applicativo che apprezzo molto in quanto rappresenta graficamente lo spazio occupato nel disco
           </div>
